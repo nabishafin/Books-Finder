@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "JS and jQuery",
+    "author": "Jon Duckett",
+    "price": 62,
+    "rating": 4,
+    "favourite": true,
+    "year": 2014
+  },
+  {
+    "id": 2,
+    "name": "Clean Code Handbook",
+    "author": "Robert Martin",
+    "price": 40,
+    "rating": 5,
+    "favourite": false,
+    "year": 2008
+  },
+  {
+    "id": 3,
+    "name": "Programmer Journey",
+    "author": "Dave Thomas, Andy Hunt",
+    "price": 45,
+    "rating": 4,
+    "favourite": true,
+    "year": 1999
+  },
+  {
+    "id": 4,
+    "name": "Design Patterns Elements",
+    "author": "Erich Gamma",
+    "price": 55,
+    "rating": 3,
+    "favourite": false,
+    "year": 1994
+  },
+  {
+    "id": 5,
+    "name": "JavaScript Introduction",
+    "author": "Marijn Haverbeke",
+    "price": 30,
+    "rating": 4,
+    "favourite": false,
+    "year": 2011
+  },
+  {
+    "id": 6,
+    "name": "Python Crash Course",
+    "author": "Eric Matthes",
+    "price": 35,
+    "rating": 5,
+    "favourite": false,
+    "year": 2015
+  },
+  {
+    "id": 7,
+    "name": "Art Computer Programming",
+    "author": "Donald Knuth",
+    "price": 120,
+    "rating": 4,
+    "favourite": true,
+    "year": 1968
+  },
+  {
+    "id": 8,
+    "name": "Head First Design",
+    "author": "Eric Freeman, Elisabeth Robson",
+    "price": 50,
+    "rating": 3,
+    "favourite": false,
+    "year": 2004
+  }
+]
